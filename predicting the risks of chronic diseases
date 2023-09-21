@@ -39,4 +39,4 @@ print(f"Accuracy: {accuracy:.2f}")
 print("Confusion Matrix:")
 print(conf_matrix)
 print("Classification Report:")
-print(report)
+print(report
